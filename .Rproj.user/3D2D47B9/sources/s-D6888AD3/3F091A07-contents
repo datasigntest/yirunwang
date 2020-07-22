@@ -1,0 +1,26 @@
+---
+date: "2020-02-29T00:00:00Z"
+external_link: ""
+image:
+  caption: image courtesy of Unsplash @impulsq
+  focal_point: Smart
+# links:
+# - icon: twitter
+  #icon_pack: fab
+  #name: Follow
+  #url: https://twitter.com/georgecushen
+# slides: example
+summary: A project aiming to address the issues surrounding remote working
+tags:
+ - Remote working
+ - Language analysis 
+ - Unstructured data
+ - Python
+title: Industry & Community
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+---
+ fwe
+
