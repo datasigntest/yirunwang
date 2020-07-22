@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genome | Yirun Wang</title>
+    <link>/tag/genome/</link>
+      <atom:link href="/tag/genome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genome</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genome</title>
+      <link>/tag/genome/</link>
+    </image>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>/project/project-3/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/project-3/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Often times, gene expression data is used to help develop models in order to predict a patient’s rejection status after receiving a kidney transplant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Three machine learning algorithms are investigated, k-nearest neighbours, random forest and support vector machine. In order to find the top performing algorithm that works the best on gene expression data, 5-fold cross validation is repeated 25 times and two evaluation metrics, accuracy and F1 score, are calculated to assess the performance of each classifier.&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;https://yirunwang.shinyapps.io/gene_expression_data_model_eval/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;model evaluation app&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

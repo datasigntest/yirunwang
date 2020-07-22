@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kidney grafts | Yirun Wang</title>
+    <link>/tag/kidney-grafts/</link>
+      <atom:link href="/tag/kidney-grafts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kidney grafts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kidney grafts</title>
+      <link>/tag/kidney-grafts/</link>
+    </image>
+    
+    <item>
+      <title>Healthcare Project</title>
+      <link>/project/external-project/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;It was an interdisciplinary unit for the major of Data Science at the University of Sydney. The disciplines involved in this project were medicine and data science.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborated with a nephrologist at Westmead Hospital and four students majoring in data science at USYD&lt;/li&gt;
+&lt;li&gt;Co-developed an integrated statistical solution to address the interdisciplinary problem
+&lt;ol&gt;
+&lt;li&gt;Problem: How to strike a balance between the maximisation of graft utility and the equity issues when allocating grafts&lt;/li&gt;
+&lt;li&gt;Stakeholders: nephrologists and patients suffering from chronic kidney disease&lt;/li&gt;
+&lt;li&gt;Solution: A risk calculator that predicts the probability of acute rejection and the survival of a graft in the form of a Shiny app.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Check out the 
+&lt;a href=&#34;https://yirunwang.shinyapps.io/graft_survival_risk_calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;risk calculator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Achievement&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Received a HD in this unit&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

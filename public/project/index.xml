@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Yirun Wang</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>/project/external-project/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/external-project/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;It was an interdisciplinary unit for the major of Data Science at the University of Sydney. The disciplines involved in this project were medicine and data science.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Domain Knowledge&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One in 1400 Australians will be on dialysis or live with a transplanted kidney in their lifetime. On average, it takes a patient 3 years to get started on the treatment. In 2016, 42% of the patients were on the waiting list, yet to be allocated a transplant. In 2017, 15% of the transplantees experienced acute rejection.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Responsibilities&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Collaborated with a nephrologist at Westmead Hospital and four students majoring in data science at USYD&lt;/li&gt;
+&lt;li&gt;Co-developed an integrated statistical solution to address the interdisciplinary problem
+&lt;ol&gt;
+&lt;li&gt;Problem: How to strike a balance between the maximisation of graft utility and the equity issues when allocating grafts&lt;/li&gt;
+&lt;li&gt;Stakeholders: nephrologists and patients suffering from chronic kidney disease&lt;/li&gt;
+&lt;li&gt;Solution: A risk calculator that predicts the probability of acute rejection and the survival of a graft in the form of a Shiny app.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Check out the 
+&lt;a href=&#34;https://yirunwang.shinyapps.io/graft_survival_risk_calculator/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;risk calculator&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Achievement&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Received a HD in this unit&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biostatistics</title>
+      <link>/project/project-3/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>/project/project-3/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Often times, gene expression data is used to help develop models in order to predict a patient’s rejection status after receiving a kidney transplant.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Three machine learning algorithms are investigated, k-nearest neighbours, random forest and support vector machine. In order to find the top performing algorithm that works the best on gene expression data, 5-fold cross validation is repeated 25 times and two evaluation metrics, accuracy and F1 score, are calculated to assess the performance of each classifier.&lt;/p&gt;
+&lt;p&gt;Check out the 
+&lt;a href=&#34;https://yirunwang.shinyapps.io/gene_expression_data_model_eval/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;model evaluation app&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industry &amp; Community</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Technology is developing at a rapid pace, bringing in new means of communication. In this project, we were investigating whether technology has changed the way people communicate with each other in the context of remote working.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The Virtual Office project was an intiative proposed by Deloitte Australia in a bid to provide their employees a hybrid way of working. A survey regarding this initiative was conducted by Deloitte Sydney, in which the respondents were asked to provide feedback on their experience of working from home. The crux here was the data structure as the responses were unstructured text. The analysis had to be done by firstly quantifying the text responses so useful information could be extracted. This was done in Python. The word frequency was then counted and ranked. A particular focus was on the top 10 words for each category.&lt;/p&gt;
+&lt;p&gt;Here are two slides from the project design presentation.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;gp.jpg&#34; alt=&#34;gain&#34;&gt;
+&lt;img src=&#34;ti.png&#34; alt=&#34;tips&#34;&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

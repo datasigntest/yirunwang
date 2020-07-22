@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Language | Yirun Wang</title>
+    <link>/tag/language/</link>
+      <atom:link href="/tag/language/index.xml" rel="self" type="application/rss+xml" />
+    <description>Language</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Language</title>
+      <link>/tag/language/</link>
+    </image>
+    
+    <item>
+      <title>Industry Project</title>
+      <link>/project/internal-project/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/project/internal-project/</guid>
+      <description>&lt;p&gt;fwe&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
