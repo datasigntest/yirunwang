@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python | Yirun Wang</title>
-    <link>/tag/python/</link>
-      <atom:link href="/tag/python/index.xml" rel="self" type="application/rss+xml" />
+    <link>/datasigntest.github.io/tag/python/</link>
+      <atom:link href="/datasigntest.github.io/tag/python/index.xml" rel="self" type="application/rss+xml" />
     <description>Python</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/datasigntest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Python</title>
-      <link>/tag/python/</link>
+      <link>/datasigntest.github.io/tag/python/</link>
     </image>
     
     <item>
       <title>Industry &amp; Community</title>
-      <link>/project/internal-project/</link>
+      <link>/datasigntest.github.io/project/internal-project/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>/datasigntest.github.io/project/internal-project/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Technology is developing at a rapid pace, bringing in new means of communication. In this project, we were investigating whether technology has changed the way people communicate with each other in the context of remote working.&lt;/p&gt;
 &lt;/blockquote&gt;

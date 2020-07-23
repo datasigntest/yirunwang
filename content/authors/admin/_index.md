@@ -45,4 +45,4 @@ user_groups:
 - Visitors
 ---
 
-Yirun is a third year student studying a combined degree in Science and Law with a major in data science at the University of Sydney. Her research aspiration is to develop modelling methods to help identify and address issues in the public sector including healthcare and infrastructure.
+Yirun is a third year student at the University of Sydney studying a combined degree in Science and Law with a major in data science. Her research aspiration is to develop modelling methods to help identify and address issues in the public sector with a particular interest in healthcare and infrastructure.

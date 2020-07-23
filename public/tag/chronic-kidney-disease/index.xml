@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chronic kidney disease | Yirun Wang</title>
-    <link>/tag/chronic-kidney-disease/</link>
-      <atom:link href="/tag/chronic-kidney-disease/index.xml" rel="self" type="application/rss+xml" />
+    <link>/datasigntest.github.io/tag/chronic-kidney-disease/</link>
+      <atom:link href="/datasigntest.github.io/tag/chronic-kidney-disease/index.xml" rel="self" type="application/rss+xml" />
     <description>Chronic kidney disease</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/datasigntest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chronic kidney disease</title>
-      <link>/tag/chronic-kidney-disease/</link>
+      <link>/datasigntest.github.io/tag/chronic-kidney-disease/</link>
     </image>
     
     <item>
       <title>Healthcare</title>
-      <link>/project/external-project/</link>
+      <link>/datasigntest.github.io/project/external-project/</link>
       <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>/datasigntest.github.io/project/external-project/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;It was an interdisciplinary unit for the major of Data Science at the University of Sydney. The disciplines involved in this project were medicine and data science.&lt;/p&gt;
 &lt;/blockquote&gt;
