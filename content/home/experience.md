@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Paralegal"
-  company = "CMI Legal"
+  company = ""
   company_url = ""
   location = "Sydney, Australia"
   date_start = "2020-02-28"
@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Ad-hoc dministrative support
+  * Ad-hoc administrative support
   * Database management: filing client accounts, correspondence and documents
   * Drafting client letters
   * Legal research

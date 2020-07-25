@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Food Science | Yirun Wang</title>
+    <link>/tag/food-science/</link>
+      <atom:link href="/tag/food-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Food Science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Food Science</title>
+      <link>/tag/food-science/</link>
+    </image>
+    
+    <item>
+      <title>Food</title>
+      <link>/project/project-5/</link>
+      <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/project-5/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;How effective is the kiwifruit extract treatment?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;NB&lt;/em&gt;: I acknowledge that the data is permitted only for University of Sydney students. Unfortunately, I am not allowed to publicly share or post any inferences drawn from the data.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;To statistically answer this question, an ANOVA model was established to investigate the interactions between the following factors: cut of beef, ageing period and cooking method. Interaction plots were made to further explore the significance of the interactions. Contrast plots were used to assess the significance of the differences between the means of tenderness score of the meat samples that were treated with different combinations of treatment.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

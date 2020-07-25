@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: image courtesy of Unsplash @ashkfor121
   focal_point: Smart
-summary: Status of the coronavirus disease as of 21/3/2020
+summary: Status of the coronavirus disease in March (early stage of the outbreak)
 tags:
 - Pandemic
 - Visualisation
@@ -12,7 +12,7 @@ tags:
 title: Coronavirus
 ---
 
-> Please do the following things to protect those who are protecting us: Mask wearing, physical distancing, staying at home when you are unwell and getting tested, practicing good hand hygiene and cough etiquette. Stay up to date with the health advice in your jurisdiction.
+> Please do the following things to protect those who are protecting us: physical distancing, practicing good hand hygiene and cough etiquette, staying at home when you are unwell and getting tested and mask wearing in areas where you can't socially distance. Stay up to date with the health advice in your jurisdiction. NSW: https://www.health.nsw.gov.au/
 
 __Cases by State__
 

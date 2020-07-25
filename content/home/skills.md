@@ -42,7 +42,7 @@ subtitle = ""
   icon = "flask-solid"
   icon_pack = "custom"
   name = "Science beyond DS"
-  description = "Fundamental Chemistry"
+  description = "Fundamental Chemistry - Molecular Stability and Reactivity"
 
 [[feature]]
   icon = "handshake-solid"
