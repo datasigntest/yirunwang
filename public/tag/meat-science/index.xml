@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meat Science | Yirun Wang</title>
-    <link>/tag/meat-science/</link>
-      <atom:link href="/tag/meat-science/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://datasigntest.github.io/tag/meat-science/</link>
+      <atom:link href="https://datasigntest.github.io/tag/meat-science/index.xml" rel="self" type="application/rss+xml" />
     <description>Meat Science</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 10 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://datasigntest.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Meat Science</title>
-      <link>/tag/meat-science/</link>
+      <link>https://datasigntest.github.io/tag/meat-science/</link>
     </image>
     
     <item>
       <title>Food</title>
-      <link>/project/project-5/</link>
+      <link>https://datasigntest.github.io/project/project-5/</link>
       <pubDate>Sun, 10 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/project/project-5/</guid>
+      <guid>https://datasigntest.github.io/project/project-5/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;How effective is the kiwifruit extract treatment?&lt;/p&gt;
 &lt;/blockquote&gt;
